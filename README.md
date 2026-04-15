@@ -33,4 +33,8 @@
 * `🌐 index.html`: Semantic structure & UI entry point.
 * `⚙️ firebase-config.example.js`: Secure API handshake template.
 * `🛡️ privacy-policy.html`: Transparent disclosure of our non-retention policy.
-*
+** `⚠️ 404.html`: Custom routing for seamless user experience.
+
+---
+**Crafted with 💻 by [Aviral Singh] (https://github.com/Official-Asr07)** 
+**Project Owned by:** Anushree
