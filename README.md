@@ -1,4 +1,4 @@
-# 🌙 LunaCare: Your Health & Safety 🌙
+# 🌙 LunaCare: Your Health & Safety 
 
 ![AI Speed](https://img.shields.io/badge/Speed-Groq%20LPU-orange?style=for-the-badge&logo=fastapi)
 ![AI Intelligence](https://img.shields.io/badge/Intelligence-Gemini%20Pro-blue?style=for-the-badge&logo=google-gemini)
