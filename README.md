@@ -1,42 +1,36 @@
-# 🌙 LunaCare: AI-Driven Women's Health & Privacy-First Platform
+# 🌙 LunaCare: Your Women Health & Safety 🌙
 
-**LunaCare** is a specialized web-based diagnostic assistant designed to provide women with immediate, reliable health insights while maintaining absolute data anonymity. Built with a focus on high-performance AI integration and a zero-server-side footprint.
+![AI Speed](https://img.shields.io/badge/Speed-Groq%20LPU-orange?style=for-the-badge&logo=fastapi)
+![AI Intelligence](https://img.shields.io/badge/Intelligence-Gemini%20Pro-blue?style=for-the-badge&logo=google-gemini)
+![Privacy](https://img.shields.io/badge/Privacy-Zero%20Data%20Retention-green?style=for-the-badge)
 
-### 🌟 Project Vision & Transparency
-The core mission of LunaCare is to bridge the trust gap in health-tech. We prioritize **User Privacy** above all else. 
-- **Zero-Data Retention:** We do not store, log, or track any personal health queries.
-- **Direct AI Interaction:** Queries are processed directly via API, ensuring no middle-man data collection.
-
-### 🚀 Key Technical Features
-* **Gemini AI Integration:** Real-time Natural Language Processing (NLP) to interpret and respond to complex health queries with medical context.
-* **Privacy-Centric Architecture:** A strict client-side execution model. All interactions happen in the user's browser session.
-* **Secure Config Management:** Implements a template-based configuration system (`Firebase config.example.js`) to prevent accidental exposure of sensitive API credentials.
-* **Responsive UI/UX:** A modern, empathetic design built with CSS3 Flexbox and Grid for accessibility across mobile and desktop devices.
-
-### 🛠️ Tech Stack
-* **Core Frontend:** HTML5 (Semantic), CSS3 (Modern), Vanilla JavaScript (ES6+)
-* **Artificial Intelligence:** Google Gemini AI Pro API
-* **Backend Services:** Firebase (Ready for scalable Auth & Hosting)
-* **Version Control:** Git & GitHub (Industry-standard practices)
-
-### 📂 File Structure & Transparency Log
-- `index.html`: Main entry point with semantic structure.
-- `firebase-config.example.js`: A secure template for API connection (Publicly visible for transparency).
-- `firebase-config.js`: (Hidden via .gitignore) Contains private production keys.
-- `privacy-policy.html`: Full disclosure of our non-data-collection policy.
-- `404.html`: Custom error handling for seamless navigation.
-
-### ⚙️ Local Development Setup
-To run this project locally and maintain transparency:
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/Official-Asr07/LunaCare--AI-Driven-Health-Tool.git](https://github.com/Official-Asr07/LunaCare--AI-Driven-Health-Tool.git)
-    ```
-2.  **Configure API Keys:**
-    * Rename `Firebase config.example.js` to `Firebase config.js`.
-    * Insert your personal **Gemini API Key** and **Firebase Credentials**.
-3.  **Launch:** Open `index.html` in any modern browser.
+**LunaCare** is a next-generation health-tech solution that bridges the gap between **Advanced AI** and **Total User Privacy**. By integrating multiple Large Language Models (LLMs), it offers a judgment-free, secure, and lightning-fast space for women’s health inquiries.
 
 ---
-**Lead Developer:** Aviral Singh  
-**Project Owned by :** Anushree
+
+### 🚀 The LunaCare Edge
+
+| Feature | Technology | Benefit |
+| :--- | :--- | :--- |
+| **⚡ Ultra-Fast** | Groq LPU™ | Sub-second AI response for natural flow. |
+| **🧠 Deep Insights** | Google Gemini Pro | Expert-level reasoning & medical context. |
+| **🔒 Ghost Privacy** | Client-Side Logic | Zero-server logs. Your data never leaves your sight. |
+| **🎨 Empathetic UI** | Modern CSS3 | Calm, clean, and mobile-responsive design. |
+
+---
+
+### 🛠️ Technical Deep Dive
+
+* **Hybrid AI Architecture:** Orchestrated dual-API integration to leverage the speed of **Groq** and the intelligence of **Gemini**.
+* **Ethical AI Implementation:** Custom-engineered system prompts to ensure responses are safe, informational, and supportive.
+* **Professional DevOps:** Implemented secure secret management via `.gitignore` and template-based config files (`firebase-config.example.js`).
+* **Vanilla JS Core:** Built with high-performance, lightweight JavaScript (ES6+) for maximum speed without heavy frameworks.
+
+---
+
+### 📂 Repository Blueprint
+
+* `🌐 index.html`: Semantic structure & UI entry point.
+* `⚙️ firebase-config.example.js`: Secure API handshake template.
+* `🛡️ privacy-policy.html`: Transparent disclosure of our non-retention policy.
+*
