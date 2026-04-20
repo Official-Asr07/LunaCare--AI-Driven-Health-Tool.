@@ -98,7 +98,7 @@ Discover government schemes made specifically for women — PM Awas Yojana, Mudr
 <br/>
 
 ### ⚖️ &nbsp; Legal Shield
-**70+ Indian laws** explained in plain language — covering Safety, Workplace rights, Cyber laws, Family law, and Property rights. Every law comes with its section number, BNS equivalent, penalties, key provisions, and clear action steps.
+**100+ Indian laws** explained in plain language — covering Safety, Workplace rights, Cyber laws, Family law, and Property rights. Every law comes with its section number, BNS equivalent, penalties, key provisions, and clear action steps.
 
 *Because knowing your rights is the first step to using them.*
 
