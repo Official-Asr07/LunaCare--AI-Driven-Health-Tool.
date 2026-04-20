@@ -15,7 +15,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/version-v4.0-00E6CC?style=for-the-badge&labelColor=031A21)
+![](https://img.shields.io/badge/version-v1.0-00E6CC?style=for-the-badge&labelColor=031A21)
 ![](https://img.shields.io/badge/status-Live-00c896?style=for-the-badge&labelColor=031A21)
 ![](https://img.shields.io/badge/PWA-Installable-00E6CC?style=for-the-badge&labelColor=031A21)
 ![](https://img.shields.io/badge/Platform-Web_%2B_Mobile-ff9f43?style=for-the-badge&labelColor=031A21)
