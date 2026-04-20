@@ -38,7 +38,7 @@
 
 **LunaCare** is a complete women's health & safety app — designed to be your **24/7 companion**. From tracking your menstrual cycle to sending an emergency SOS, from understanding your legal rights to getting AI-powered health guidance — LunaCare does it all in one place.
 
-No bloat. No heavy app to download. Just a powerful, beautiful experience that **works offline** and installs directly on your phone like a native app.
+No bloat. No heavy app to download. Just a powerful, beautiful experience and installs directly on your phone like a native web app.
 
 *Built for every woman. Free. Private. Always on your side.*
 
