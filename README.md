@@ -1,40 +1,194 @@
-# 🌙 LunaCare: Your Health & Safety 
+<div align="center">
 
-![AI Speed](https://img.shields.io/badge/Speed-Groq%20LPU-orange?style=for-the-badge&logo=fastapi)
-![AI Intelligence](https://img.shields.io/badge/Intelligence-Gemini%20Pro-blue?style=for-the-badge&logo=google-gemini)
-![Privacy](https://img.shields.io/badge/Privacy-Zero%20Data%20Retention-green?style=for-the-badge)
+<br/>
 
-**LunaCare** is a next-generation health-tech solution that bridges the gap between **Advanced AI** and **Total User Privacy**. By integrating multiple Large Language Models (LLMs), it offers a judgment-free, secure, and lightning-fast space for women’s health inquiries.
+```
+  ██╗     ██╗   ██╗███╗   ██╗ █████╗  ██████╗ █████╗ ██████╗ ███████╗
+  ██║     ██║   ██║████╗  ██║██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝
+  ██║     ██║   ██║██╔██╗ ██║███████║██║     ███████║██████╔╝█████╗  
+  ██║     ██║   ██║██║╚██╗██║██╔══██║██║     ██╔══██║██╔══██╗██╔══╝  
+  ███████╗╚██████╔╝██║ ╚████║██║  ██║╚██████╗██║  ██║██║  ██║███████╗
+  ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
+
+### 🌙 *Your Smart Health & Shield — Built for Every Woman*
+
+<br/>
+
+![](https://img.shields.io/badge/version-v4.0-00E6CC?style=for-the-badge&labelColor=031A21)
+![](https://img.shields.io/badge/status-Live-00c896?style=for-the-badge&labelColor=031A21)
+![](https://img.shields.io/badge/PWA-Installable-00E6CC?style=for-the-badge&labelColor=031A21)
+![](https://img.shields.io/badge/Platform-Web_%2B_Mobile-ff9f43?style=for-the-badge&labelColor=031A21)
+![](https://img.shields.io/badge/AI-Powered-a78bfa?style=for-the-badge&labelColor=031A21)
+
+<br/>
+
+> ### *"Your health, your power — protected, guided, and celebrated."*
+> *A complete women's health & safety companion. Offline-capable. AI-powered. Built with love.*
+
+<br/>
+
+---
+
+</div>
+
+<br/>
+
+## 🌸 &nbsp; What is LunaCare?
+
+**LunaCare** is a complete women's health & safety app — designed to be your **24/7 companion**. From tracking your menstrual cycle to sending an emergency SOS, from understanding your legal rights to getting AI-powered health guidance — LunaCare does it all in one place.
+
+No bloat. No heavy app to download. Just a powerful, beautiful experience that **works offline** and installs directly on your phone like a native app.
+
+*Built for every woman. Free. Private. Always on your side.*
+
+<br/>
 
 ---
 
-### 🚀 The LunaCare Edge
+<br/>
 
-| Feature | Technology | Benefit |
-| :--- | :--- | :--- |
-| **⚡ Ultra-Fast** | Groq LPU™ | Sub-second AI response for natural flow. |
-| **🧠 Deep Insights** | Google Gemini Pro | Expert-level reasoning & medical context. |
-| **🔒 Ghost Privacy** | Client-Side Logic | Zero-server logs. Your data never leaves your sight. |
-| **🎨 Empathetic UI** | Modern CSS3 | Calm, clean, and mobile-responsive design. |
+## ✨ &nbsp; Features
+
+<br/>
+
+### 🗓️ &nbsp; Cycle Calendar
+Track your menstrual cycle with a beautiful visual calendar. LunaCare predicts your next period, marks your fertile window, and lets you log symptoms day by day — so you always know what your body is telling you.
+
+<br/>
+
+### 💜 &nbsp; Mood Vault
+Log how you feel every single day with expressive mood tags, intensity levels, and personal notes. Over time, you'll start to see patterns — and understand yourself better than ever before.
+
+<br/>
+
+### 📓 &nbsp; Daily Journal
+Your private space to write, reflect, and remember. Entries are stored securely and are fully searchable — because your thoughts deserve to be kept safe.
+
+<br/>
+
+### 🌿 &nbsp; Relief Vault
+Struggling with period pain? The Relief Vault has science-backed remedies — heat therapy, yoga poses, acupressure points, breathing exercises, desi home remedies (hing, ajwain, methi & more), and music therapy. All in one place, ready when you need them most.
+
+<br/>
+
+### 🥗 &nbsp; Diet & BMI
+Get nutrition tips tailored to your current cycle phase. Whether you're in your follicular, ovulatory, luteal, or menstrual phase — LunaCare tells you exactly what to eat, what to avoid, and how to feel your best.
+
+<br/>
+
+### 🔬 &nbsp; Hormone Guide
+Plain-language explainers for Estrogen, Progesterone, FSH, LH, and Cortisol. Understand what each hormone does, recognize signs of imbalance, and learn how to naturally support your hormonal health. Includes PCOS, thyroid & endometriosis awareness.
+
+<br/>
+
+### 😴 &nbsp; Sleep Care
+Your sleep needs change across your cycle — and LunaCare accounts for that. Get phase-specific sleep recommendations, tips for period insomnia, and guidance on relaxation techniques to help you rest deeply every night.
+
+<br/>
+
+### 🎵 &nbsp; Music & Podcasts
+A curated collection of healing playlists (Hindi + English), podcasts on women's health, and mood-matched music. Whether you need calm, energy, or comfort — there's something here for you.
+
+<br/>
+
+### 💰 &nbsp; Finance & Grants
+Discover government schemes made specifically for women — PM Awas Yojana, Mudra Loan, Sukanya Samriddhi, scholarships, and more. Plus, financial literacy basics to help you take control of your money and your future.
+
+<br/>
+
+### ⚖️ &nbsp; Legal Shield
+**70+ Indian laws** explained in plain language — covering Safety, Workplace rights, Cyber laws, Family law, and Property rights. Every law comes with its section number, BNS equivalent, penalties, key provisions, and clear action steps.
+
+*Because knowing your rights is the first step to using them.*
+
+<br/>
+
+### 🆘 &nbsp; Guardian Shield
+
+> *Because safety should never be a privilege.*
+
+Hold the SOS button for just 5 seconds — and your **live GPS location** is instantly sent to your trusted contacts via WhatsApp & SMS. LunaCare keeps tracking your location in the background even when the screen is off, and streams it in real time so your loved ones always know where you are.
+
+- 🔴 Hold-to-activate with 5-second countdown & cancel option
+- 📍 Live GPS location shared continuously during active SOS  
+- 💬 WhatsApp + SMS alerts sent automatically  
+- 🔋 Runs in background even when screen is locked  
+- 📞 Built-in emergency helplines directory  
+- 🔐 PIN-protected trusted contacts manager  
+
+<br/>
+
+### 🤖 &nbsp; AViro AI
+Your personal AI companion — available anytime, about anything. Ask about period cramps, understand a legal situation, get nutrition advice, or just talk when you need someone to listen. AViro is context-aware, empathetic, and built specifically for women's needs.
+
+*Available 24/7. Never judges. Always listens.*
+
+<br/>
 
 ---
 
-### 🛠️ Technical Deep Dive
+<br/>
 
-* **Hybrid AI Architecture:** Orchestrated dual-API integration to leverage the speed of **Groq** and the intelligence of **Gemini**.
-* **Ethical AI Implementation:** Custom-engineered system prompts to ensure responses are safe, informational, and supportive.
-* **Professional DevOps:** Implemented secure secret management via `.gitignore` and template-based config files (`firebase-config.example.js`).
-* **Vanilla JS Core:** Built with high-performance, lightweight JavaScript (ES6+) for maximum speed without heavy frameworks.
+## 📱 &nbsp; Works Everywhere
+
+LunaCare is a **Progressive Web App (PWA)** — which means:
+
+- 📲 Install it on your phone like a native app — no Play Store needed
+- ✈️ Works fully offline after first load
+- ⚡ Loads instantly, every time
+- 🔒 Your data stays private and secure
+
+<br/>
+
+---
+
+<br/>
+
+## 📁 &nbsp; Project Structure
+
+```
+lunacare/
+├── index.html              ← The entire app lives here
+├── privacy-policy.html     ← Privacy Policy
+├── terms-of-service.html   ← Terms of Service
+├── manifest.json           ← PWA installability config
+└── logo.png                ← App icon
+```
+
+<br/>
 
 ---
 
-### 📂 Repository Blueprint
+<br/>
 
-* `🌐 index.html`: Semantic structure & UI entry point.
-* `⚙️ firebase-config.example.js`: Secure API handshake template.
-* `🛡️ privacy-policy.html`: Transparent disclosure of our non-retention policy.
-** `⚠️ 404.html`: Custom routing for seamless user experience.
+## 📜 &nbsp; Legal & Privacy
+
+- 🔒 [Privacy Policy](./privacy-policy.html)
+- 📄 [Terms of Service](./terms-of-service.html)
+
+All user data is stored privately and securely. No ads. No tracking. No third-party data selling — ever.
+
+<br/>
 
 ---
-**Crafted with 💻 by [Aviral Singh] (https://github.com/Official-Asr07)** 
-**Project Owned by:** Sarita
+
+<br/>
+
+<div align="center">
+
+*© 2026 LunaCare · Developed by **Aviral** · Owned by **Sarita***
+
+<br/>
+
+![](https://img.shields.io/badge/Made_with-💜_for_every_woman-ff69b4?style=for-the-badge)
+&nbsp;
+![](https://img.shields.io/badge/No_Ads._No_Tracking._Always_Private.-00E6CC?style=for-the-badge&labelColor=031A21)
+
+<br/><br/>
+
+### 🌙 *Your Health. Your Power. Your Shield.*
+
+<br/>
+
+</div>
