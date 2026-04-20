@@ -37,4 +37,4 @@
 
 ---
 **Crafted with 💻 by [Aviral Singh] (https://github.com/Official-Asr07)** 
-**Project Owned by:** Anushree
+**Project Owned by:** Sarita
