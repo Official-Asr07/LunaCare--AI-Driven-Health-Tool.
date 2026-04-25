@@ -116,7 +116,7 @@ Hold the SOS button for just 5 seconds — and your **live GPS location** is ins
 - 🔋 Runs in background even when screen is locked  
 - 📞 Built-in emergency helplines directory  
 - 🔐 PIN-protected trusted contacts manager  
--    Preset WHATSAPP just click send yuor live location is shared .
+-    Preset WHATSAPP just click send your live location is shared .
 <br/>
 
 ### 🤖 &nbsp; AViro AI
