@@ -97,13 +97,6 @@ Discover government schemes made specifically for women — PM Awas Yojana, Mudr
 
 <br/>
 
-### ⚖️ &nbsp; Legal Shield
-**100+ Indian laws** explained in plain language — covering Safety, Workplace rights, Cyber laws, Family law, and Property rights. Every law comes with its section number, BNS equivalent, penalties, key provisions, and clear action steps.
-
-*Because knowing your rights is the first step to using them.*
-
-<br/>
-
 ### 🤖 &nbsp; AViro AI
 Your personal AI companion — available anytime, about anything. Ask about period cramps, understand a legal situation, get nutrition advice, or just talk when you need someone to listen. AViro is context-aware, empathetic, and built specifically for women's needs.
 
