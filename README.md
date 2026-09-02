@@ -104,21 +104,6 @@ Discover government schemes made specifically for women — PM Awas Yojana, Mudr
 
 <br/>
 
-### 🆘 &nbsp; Guardian Shield
-
-> *Because safety should never be a privilege.*
-
-Hold the SOS button for just 5 seconds — and your **live GPS location** is instantly sent to your trusted contacts via WhatsApp & SMS. LunaCare keeps tracking your location in the background even when the screen is off, and streams it in real time so your loved ones always know where you are.
-
-- 🔴 Hold-to-activate with 5-second countdown & cancel option
-- 📍 Live GPS location shared continuously during active SOS  
-- 💬 WhatsApp + SMS alerts sent automatically  
-- 🔋 Runs in background even when screen is locked  
-- 📞 Built-in emergency helplines directory  
-- 🔐 PIN-protected trusted contacts manager  
--    Preset WHATSAPP just click send your live location is shared .
-<br/>
-
 ### 🤖 &nbsp; AViro AI
 Your personal AI companion — available anytime, about anything. Ask about period cramps, understand a legal situation, get nutrition advice, or just talk when you need someone to listen. AViro is context-aware, empathetic, and built specifically for women's needs.
 
@@ -155,6 +140,21 @@ lunacare/
 ├── manifest.json           ← PWA installability config
 └── logo.png                ← App icon
 ```
+
+<br/>
+
+---
+
+<br/>
+
+## 🔐 &nbsp; Security Note
+
+This project uses Firebase and third-party API keys for authentication, database, and AI features. **Never commit real API keys directly into `index.html` or any tracked file.**
+
+Recommended setup:
+- Store keys in environment variables or a `.env` file (excluded via `.gitignore`)
+- If a key was ever committed to the repo history, rotate/revoke it immediately in the provider's dashboard, since removing it from a later commit does not remove it from git history
+- Use placeholders like `xxxxxxxxxxxxxxxxxxxx` in any example config shown in docs or README
 
 <br/>
 
