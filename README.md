@@ -170,7 +170,7 @@ All user data is stored privately and securely. No ads. No tracking. No third-pa
 
 <div align="center">
 
-*© 2026 LunaCare · Developed by **Aviral** · Owned by **Sarita***
+*© 2026 LunaCare · Developed by **Aviral** · Owned by **Anushree***
 
 <br/>
 
